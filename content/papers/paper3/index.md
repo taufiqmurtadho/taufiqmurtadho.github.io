@@ -1,17 +1,15 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "Systematic Analysis of Relative Phase Extraction in 1D Bose Gases Interferometry" 
+date: 2025-02-24
+author: ["Taufiq Murtadho", "Marek Gluza", "Khathee Zathul Arifa", "Sebastian Erne", "Joerg Schmiedmayer", "Nelly Ng"] 
+summary: "Are we measuring what we think we are measuring? This paper discusses this question in details in the context of 1D Bose gases interferometry." 
 cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    image: "fourth_order_corr_func.png"
+    alt: Reconstruction of fourth-order correlation function
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
+    URL: "https://scipost.org/SciPostPhys.18.2.065"
+    Text: "Scipost Physics"
 
 ---
 
@@ -19,34 +17,38 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
++ [Paper](SciPostPhys_systematic.pdf)
++ [GitHub Code]("https://github.com/inQ-NTU/ToF_expansion")
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+Interference upon free expansion gives access to the relative phase between two interfering matter waves. Such measurements can be used to reconstruct the spatially-resolved relative phase, which is a key observable in many quantum simulations of quantum field theory and non-equilibrium experiments. However, in 1D systems, longitudinal dynamics is typically ignored in the analysis of experimental data. In our work, we give a detailed account of various effects and corrections that occur in finite temperatures due to longitudinal expansion. We provide an analytical formula showing a correction to the readout of the relative phase due to longitudinal expansion and mixing with the common phase. Furthermore, we numerically assess the error propagation to the estimation of the gases' physical quantities such as correlation functions and temperature. We also incorporate systematic errors arising from experimental imaging devices. Our work characterizes the reliability and robustness of interferometric measurements, directing us to the improvement of existing phase extraction methods necessary to observe new physical phenomena in cold-atomic quantum simulators.
 
 ---
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
 
 ```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
+@article{10.21468/SciPostPhys.18.2.065,
+	title={{Systematic analysis of relative phase extraction in one-dimensional Bose gases interferometry}},
+	author={Taufiq Murtadho and Marek Gluza and Khatee Zathul Arifa and Sebastian Erne and Jörg Schmiedmayer and Nelly Huei Ying Ng},
+	journal={SciPost Phys.},
+	volume={18},
+	pages={065},
+	year={2025},
+	publisher={SciPost},
+	doi={10.21468/SciPostPhys.18.2.065},
+	url={https://scipost.org/10.21468/SciPostPhys.18.2.065},
+}
+
 ```
 
 ---
 
 ##### Related material
 
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
++ [DPG Spring Meeting 2024 Contributed Talk Slides](DPG_SPring_Talk_2024.pdf)
++ [IPS Meeting 2023 Contributed Talk Slides](IPS_Meeting_2023.pdf)
