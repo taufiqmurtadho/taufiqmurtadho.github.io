@@ -1,17 +1,15 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+title: "Cooperation and Competition in Synchronous Open Quantum Systems" 
+date: 2023-07-17
+author: ["Taufiq Murtadho", "Sai Vinjanampathy", "Juzar Thingna"]
+summary: "Synchronization is a fascinating phenomenon where multiple oscillators are adjusting their phases to oscillate together. This paper studies multiphase generalization of synchronization in quantum systems where cooperation and competition can arise between different oscillators."
 cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    image: "cooperation_competition.png"
+    alt: "Cooperation and Competition in Quantum Synchronization"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    URL: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.030401"
+    Text: "Physical Review Letters"
 
 ---
 
@@ -19,43 +17,39 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
++ [Paper](PRL_cooperation_and_competition.pdf)
++ [Supplementary Material](PRL_Murtadho_Supp.pdf)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
----
-
-##### Figure 2: Dimensions of a sausage dog
-
-![](paper2.png)
+Synchronization between limit cycle oscillators can arise through entrainment to an external drive or through mutual coupling. The interplay between the two mechanisms has been studied in classical synchronizing systems, but not in quantum systems. Here, we point out that competition and cooperation between the two mechanisms can occur due to phase pulling and phase repulsion in quantum systems. We study their interplay in collectively driven degenerate quantum thermal machines and show that these mechanisms either cooperate or compete depending on the working mode of the machine (refrigerator or engine). The entrainment-mutual synchronization interplay persists with an increase in the number of degenerate levels, while in the thermodynamic limit of degeneracy, mutual synchronization dominates. Overall, our work investigates the effect of degeneracy and multilevel scaling of quantum synchronization and shows how different synchronizing mechanisms can cooperate and compete in quantum systems.
 
 ---
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
-
 ```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+@article{murtadho2023cooperation,
+  title = {Cooperation and Competition in Synchronous Open Quantum Systems},
+  author = {Murtadho, Taufiq and Vinjanampathy, Sai and Thingna, Juzar},
+  journal = {Phys. Rev. Lett.},
+  volume = {131},
+  issue = {3},
+  pages = {030401},
+  numpages = {6},
+  year = {2023},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.131.030401},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.131.030401}
+}
+
 ```
 
 ---
 
 ##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
++ [Physics World Popular Article](https://physicsworld.com/a/competition-and-cooperation-affect-the-thermodynamic-performance-of-quantum-machines)
++ [BRIN Colloquium Slides (2024)](BRIN_Kolokium_Slides.pdf)
