@@ -2,7 +2,7 @@
 title: "Cooperation and Competition in Synchronous Open Quantum Systems" 
 date: 2023-07-17
 author: ["Taufiq Murtadho", "Sai Vinjanampathy", "Juzar Thingna"]
-summary: "Synchronization is a fascinating phenomenon where multiple oscillators are adjusting their phases to oscillate together. This paper studies multiphase generalization of synchronization in quantum systems where cooperation and competition can arise between different oscillators."
+summary: "Synchronization is a fascinating phenomenon where multiple oscillators adjust their rhythms to oscillate in harmony. This paper studies multiphase generalization of synchronization in quantum systems where cooperation and competition can arise between different oscillators."
 cover:
     image: "cooperation_competition.png"
     alt: "Cooperation and Competition in Quantum Synchronization"

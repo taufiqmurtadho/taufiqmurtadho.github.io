@@ -3,7 +3,7 @@ title: "(Preprint) Extensive entanglement between coupled
 Tomonaga-Luttinger liquids in and out of equilibrium" 
 date: 2025-09-22
 author: ["Taufiq Murtadho", "Marek Gluza", "Nelly Ng"]
-summary: "Detecting entanglement in many-body quantum systems described by quantum fields at finite temperatures is very hard. In this paper, we theoretically identify scenarios where this is realistic in the context of parallel 1D Bose gases."
+summary: "Detecting entanglement in many-body quantum systems described by quantum fields at finite temperatures is hard. In this paper, we theoretically identify scenarios where this can be achieved in parallel 1D Bose gases."
 cover:
     image: "entanglement.jpeg"
     relative: true

@@ -2,7 +2,7 @@
 title: "Deriving lower bounds on the efficiency of near-degenerate thermal machines via synchronization" 
 date: 2023-07-16
 author: ["Taufiq Murtadho", "Juzar Thingna", "Sai Vinjanampathy"]
-summary: "This paper studies the connection between quantum synchronization and quantum thermodynamics in a well-known model of quantum heat engines."
+summary: "Are there connections between synchronization and thermodynamics? This paper studies the connection between quantum synchronization and quantum thermodynamics in a well-known model of quantum heat engines."
 cover:
     image: "sync_thermal_machines.png"
     alt: "Synchronization in near-degenerate four-level Scovil-Schulz-Dubois quantum heat engine"

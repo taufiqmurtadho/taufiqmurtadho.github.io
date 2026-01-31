@@ -2,7 +2,7 @@
 title: "(Master's Thesis) Thermodynamics of Quantum Synchronization" 
 date: 2022-08-08
 author: ["Taufiq Murtadho"]
-summary: "The second law of thermodynamics state that systems tend to increase its entropy/disorder. Yet, we observe synchronization phenomena where multiple oscillators adjust their rhythm with respect to each other, and then oscillating in harmony. How do we resolve these two facts?"
+summary: "The second law of thermodynamics says that a system tend to increase its entropy. Yet, we observe synchronization phenomena where multiple oscillators adjust their rhythm and oscillate in harmony. How do we resolve these two facts?"
 cover:
     image: "sync_thermo.png"
     relative: true
