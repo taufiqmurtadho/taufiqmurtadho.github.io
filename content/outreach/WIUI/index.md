@@ -38,7 +38,7 @@ I was also spearheading "WIUI Special Projects" including our initiative to brea
 + [Merdeka Origin Story: The Unlikely Alliance of Islamism, Communism and Nationalism](https://www.instagram.com/p/DNb-7_FT9mw/)
 + [Indonesia, the most generous country in the world?](https://www.instagram.com/p/DEpA3p2JgSu/)
 + [Indonesia's Journey to Universal Health Coverage](https://www.instagram.com/p/DBGg9wCy1VX/)
-+ [How creative are Indonesian Students](https://www.instagram.com/p/C_u67chSW0j/)
++ [How creative are Indonesian students](https://www.instagram.com/p/C_u67chSW0j/)
 + [There is no magic silver bullet for sustainability in Indonesia](https://www.instagram.com/p/C7qRsUESBVo/)
 + [Presidential Candidate Writing: Ganjar Pranowo](https://www.instagram.com/p/C3HUWICO-pa/)
 + [Presidential Candidate Writing: Anies Baswedan](https://www.instagram.com/p/C3B4EoHPA_X/)
