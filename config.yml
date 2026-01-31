@@ -1,6 +1,4 @@
 baseURL: "https://taufiqmurtadho.github.io/"
-relativeURLs = false
-canonifyURLs = true 
 title: Taufiq Murtadho
 theme: PaperMod
 
