@@ -12,24 +12,21 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
         - name: Papers
           url: papers/
+          weight: 1 
+        - name: Talks
+          url: talks/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Outreach
+          url: outreach/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
 
 params:
     #description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
     #author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "2006"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -41,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    #MainSections: ["books","courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -52,18 +49,22 @@ params:
     profileMode:
           enabled: true
           title: Taufiq Murtadho
-          subtitle: "I am a scientist, a writer, and an educator. Currently, I am a PhD candidate in physics at Nanyang Technological University (NTU), Singapore. My PhD focuses on building novel measurement toolbox in low-dimensional ultracold atomic gases and applying it to probe their quantum properties. More generally, I am interested in bridging theory and experiment in physics using analytical, numerical, and computational tools. On the side, I am also a freelance writer and editor who enjoy distilling complex topics into digestible and engaging stories."
+          subtitle: "I am a scientist, a writer, and an educator. Currently, I am a PhD candidate in physics at Nanyang Technological University (NTU), Singapore. My PhD focuses on building novel measurement toolbox in low-dimensional ultracold atomic gases and applying them to probe quantum properties of matter. More generally, I am interested in bridging theory and experiment in physics using analytical, numerical, and computational tools. I am also a freelance writer and editor who enjoy distilling complex topics into digestible and engaging stories."
           imageUrl: "profile.JPG"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Papers
               url: papers/
+            - name: Academic Talks
+              url: talks/
+            - name: Science Communication
+              url: outreach/
            
 
     socialIcons:
-        - name: CV
-          url: Taufiq_Academic_CV_2026.pdf
+        #- name: CV
+        #  url: Taufiq_Academic_CV_2026.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=5iKg1WUAAAAJ&hl=en
         - name: GitHub
