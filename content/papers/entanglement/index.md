@@ -45,6 +45,6 @@ Quantum entanglement exists in nature but is absent in classical physics, hence 
 ---
 
 ##### Related material
-+ [Nontechnical summary](https://www.nellyng.com//2025/08/28/EETLL.html)
++ [Non-technical summary](https://www.nellyng.com//2025/08/28/EETLL.html)
 + [Institute of Physics Singapore (IPS) Meeting 2025 Invited Talk](IPS2025_Entanglement_No_Build.pdf)
 + [Oxford 2024 Group Talk](Oxford_Entanglement_Slides.pdf)

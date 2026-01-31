@@ -53,7 +53,7 @@ Studying the dynamics of quantum many-body systems is often constrained by the l
 ---
 
 ##### Related material
-+ [Nontechnical summary](https://www.nellyng.com//2025/05/07/commonphase.html)
++ [Non-technical summary](https://www.nellyng.com//2025/05/07/commonphase.html)
 + [Wolfram Implementation by Brunno Tennorio](https://community.wolfram.com/groups/-/m/t/3547798)
 + [Quantum Thermodynamics (QTD) 2025 contributed talk](QTD_Taufiq_Murtadho.pdf)
 + [Institiute of Physics (IPS) Meeting 2024 Poster](IPS_Common_Phase_Poster.pdf)
