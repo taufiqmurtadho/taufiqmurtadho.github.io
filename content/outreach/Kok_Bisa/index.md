@@ -9,7 +9,7 @@ cover:
 ---
 
 #### 
-[Kok Bisa](https://www.youtube.com/@KokBisa) is one of the biggest online educational media in Indonesia with a mission to provoke teen minds to stay curious and raise more questions, particularly in the areas of science and general knowledge. Its Youtube channel has a 6 million+ subscribers. 
+[Kok Bisa](https://www.youtube.com/@KokBisa) is one of the biggest online educational media in Indonesia with a mission to provoke teen minds to stay curious and raise more questions, particularly in the areas of science and general knowledge. Its Youtube channel has 6 million+ subscribers. 
 
 I am freelancing for Kok Bisa as a video script and content writer.
 
