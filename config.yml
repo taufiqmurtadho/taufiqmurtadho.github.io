@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Taufiq Murtadho
-          subtitle: "I am a scientist, a writer, and an educator. Currently, I am a PhD candidate in physics at Nanyang Technological University (NTU), Singapore. My PhD focuses on building novel measurement toolbox in low-dimensional ultracold atomic gases and applying them to probe quantum properties of matter. More generally, I am interested in bridging theory and experiment in physics using analytical, numerical, and computational tools. I am also a freelance writer and editor who enjoy distilling complex topics into digestible and engaging stories."
+          subtitle: "I am a scientist, a writer, and an educator. Currently, I am a PhD candidate in physics at Nanyang Technological University (NTU), Singapore. My PhD focuses on building new measurement toolboxes in low-dimensional ultracold atomic gases and applying them to probe quantum properties of matter. More generally, I am interested in bridging theory and experiment in physics using analytical, numerical, and computational tools. I am also a freelance writer and editor who enjoy distilling complex topics into digestible and engaging stories."
           imageUrl: "profile.JPG"
           imageWidth: 160
           imageHeight: 160
