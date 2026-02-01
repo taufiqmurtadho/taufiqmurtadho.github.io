@@ -50,6 +50,6 @@ Interference upon free expansion gives access to the relative phase between two 
 
 ##### Related material
 + [Non-technical summary](https://www.nellyng.com//2025/02/24/ToF.html)
-+ [German Physical Society (DPG) Spring Meeting 2024 Contributed Talk Slides](DPG_SPring_Talk_2024.pdf)
-+ [Institute of Physics Singapore (IPS) Meeting 2023 Contributed Talk Slides](IPS_Meeting_2023.pdf)
++ [German Physical Society (DPG) Spring Meeting 2024 Contributed Talk Slides](DPG_Spring_Talk_2024.pdf)
++ [Institute of Physics Singapore (IPS) Meeting 2023 Contributed Talk Slides](IPS_meeting_2023.pdf)
 + [Quantum Thermodynamics (QTD) 2023 Poster](QTD_2023_Poster.pdf)
