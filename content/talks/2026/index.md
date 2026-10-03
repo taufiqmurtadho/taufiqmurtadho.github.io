@@ -8,11 +8,11 @@ cover:
 ---
 
 ##### Talk Slides (PDF) and Posters
-+ [PhD Defence](PhD_Defense_Slides)
++ [PhD Defence](PhD_Defense_Slides.pdf)
 + [Young Quantum Information Science (YQIS) 2026](YQIS_2026.pdf)
 + [FU Berlin Research Visit](Berlin_visit.pdf)
 + [Relativistic Quantum Information (RQI) Circuit](RQI_Circuit_2026_slides.pdf)
-+ [KAIST Research Visit](KAIST_talk.pdf)
++ [KAIST Research Visit](KAIST_Talk.pdf)
 + [UNIST Second Quantization and BEC Tutorial (2)](UNIST_bec_one.pdf)
 + [UNIST Second Quantization and BEC Tutorial (1)](UNIST_bec_two.pdf)
 
