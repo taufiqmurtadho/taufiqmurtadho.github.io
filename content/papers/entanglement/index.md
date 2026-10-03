@@ -1,5 +1,5 @@
 ---
-title: "(Preprint) Extensive entanglement between coupled
+title: "Extensive entanglement between coupled
 Tomonaga-Luttinger liquids in and out of equilibrium" 
 date: 2025-09-22
 author: ["Taufiq Murtadho", "Marek Gluza", "Nelly Ng"]
