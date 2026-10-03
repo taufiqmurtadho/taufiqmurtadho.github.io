@@ -1,10 +1,6 @@
 ---
-title: "2025 Talk Slides and Posters"
+title: "2026 Talk Slides and Posters"
 summary: "Talk Slides and Posters (PDF):
-Institute of Physics Singapore (IPS) Meeting 2025, 
-Oxford Group Talk 2025, Quantum Thermodynamics (QTD) 2025, 
-TU Wien AtomChip Academic Visit.
-
 "
 date: 2026-01-01
 cover:
